@@ -1,5 +1,3 @@
-version: "1"
-
 services:
   wazuh:
     image: wazuh/wazuh:3.7.2_6.5.3
